@@ -110,7 +110,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ```bash
 # Fork the repository
 # Clone your fork
-git clone https://github.com/your-username/ai-summarize-web-application.git
+git clone https://github.com/ngnphamgiahuy/ai-summarize-web-application.git
 
 # Create your feature branch
 git checkout -b feature/amazing-feature
